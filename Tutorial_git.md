@@ -16,7 +16,9 @@
 
 * __Merge of branches__ 
     1. Use command __git merge branch_name__. While doing that,one should be on a branch where you want those changes to be. 
-* __Conflicts and solutions__
 
-    1. Fast-forward merge means master was not modified and 'daughter' branch was modified
+* __Conflicts__
+    1. Conflicts occur when there are contradictonary commits in branches
+    2. There 2 two non-conflict strategies: __fast-forward__ and __ort_. Fast-forward merge means master was not modified and 'daughter' branch was modified. Ort strategy happens when both branches were modified, but in different 'areas'. 
+
 * __Seminar summary__
