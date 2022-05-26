@@ -15,5 +15,6 @@
 3. To check on whant branch you are use **git branch**
 
 * __Merge of branches__ 
+    1. Use command __git merge branch_name__. While doing that,one should be on a branch where you want those changes to be. 
 * __Conflicts__
 * __Seminar summary__
