@@ -17,4 +17,6 @@
 * __Merge of branches__ 
     1. Use command __git merge branch_name__. While doing that,one should be on a branch where you want those changes to be. 
 * __Conflicts__
+    1. Conflicts occur when there are contradictonary commits in branhes
+    2. There 2 two non-conflict strategies: __fast-forward__ and __ort_
 * __Seminar summary__
