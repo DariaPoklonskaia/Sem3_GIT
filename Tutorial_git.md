@@ -7,3 +7,8 @@
 *git commit --amend -m"new message"* - исправить сообщение предыдущего коммита
 
 *git checkout master* - вернутся в ветку мастер
+
+#Seminar 2
+* create new branch and switch b/w them
+* Merge of branches 
+* Conflicts
