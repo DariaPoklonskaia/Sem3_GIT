@@ -16,3 +16,4 @@
 
 * __Merge of branches__ 
 * __Conflicts__
+* __Seminar summary__
