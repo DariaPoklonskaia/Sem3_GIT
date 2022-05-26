@@ -9,10 +9,10 @@
 *git checkout master* - вернутся в ветку мастер
 
 #Seminar 2
-* create new branch and switch b/w them
+* __create new branch and switch b/w them__
 1. To creane new branch use command **git branch branch_name**; where branch_name should be in one world
 2. To switch between branches use **git checkout create_branch**. To switch to master branch use **git checkout master**
 3. To check on whant branch you are use **git branch**
 
-* Merge of branches 
-* Conflicts
+* __Merge of branches__ 
+* __Conflicts__
