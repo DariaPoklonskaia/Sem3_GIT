@@ -16,5 +16,7 @@
 
 * __Merge of branches__ 
     1. Use command __git merge branch_name__. While doing that,one should be on a branch where you want those changes to be. 
-* __Conflicts__
+* __Conflicts and solutions__
+
+    1. Fast-forward merge means master was not modified and 'daughter' branch was modified
 * __Seminar summary__
