@@ -29,7 +29,7 @@
     1. To delete branch use command *git branch -d branch_name*. 
     2. *-d* allows to delete a branch when all modifications were copied and such delete would not cause any troubles. 
 
-* __Misc (miscellaneous)__
+* __Misc__
 
 Use *git diff* to see difference b/w edited and commited text files. 
 
