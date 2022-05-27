@@ -22,3 +22,8 @@
     2. There are 2 non-conflict strategies: __fast-forward__ and __ort__. Fast-forward merge happens when only 'daughter' branch was modified. Ort strategy happens when both branches were modified, but in different 'areas'. 
     3. When solving conflict the safest option is _accept both_
 
+* __Deleting__
+
+    1. To delete branch use command *git branch -d branch_name*. 
+    2. *-d* allows to delete a branch when all modifications were copied and such delete would not cause any troubles. 
+
