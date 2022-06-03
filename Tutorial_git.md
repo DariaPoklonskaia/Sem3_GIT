@@ -41,3 +41,4 @@ Master branch log would not show modifications, that were done in created from i
 
 Use *.gitignore* file located in the same root folder to list all files you do not want to be tracked by git, and avoid annoying messages from git. This file should be commited. 
 
+## Seminar 3 (from GH)
